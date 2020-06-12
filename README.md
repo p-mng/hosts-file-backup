@@ -2,7 +2,7 @@
 
 ![hosts-file.net banner](https://i.imgur.com/GFC1t5p.png)
 
-Backup of the hosts-file.net adblock lists, downloaded from archive.org
+Backup of the hosts-file.net filterlists, downloaded from archive.org
 
 The lists were last updated between mid-2019 and mid-2020. I do not own any rights on the existing files and will respect any copyright claims.
 
