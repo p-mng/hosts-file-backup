@@ -1,4 +1,4 @@
-#  hosts-file.net backup
+# hosts-file.net backup
 
 ![hosts-file.net banner](https://i.imgur.com/GFC1t5p.png)
 
